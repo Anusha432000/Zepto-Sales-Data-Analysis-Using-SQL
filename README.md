@@ -70,4 +70,4 @@ All of these are done using structured SQL queries executed in **pgAdmin** with 
 **Anusha P**  
 📍 Hyderabad, Telangana  
 🔗 [LinkedIn] https://www.linkedin.com/in/anushapagadala 
-✉️pagadalaanusha@gmail.com*
+✉️pagadalaanusha432@gmail.com*
